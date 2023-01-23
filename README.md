@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏻, this is Ludivine's GitHub !
+#### Currently in training to become a Web Developper 💻
+Looking for a remote internship of two months for summer 2023 to validate my degree.
 
-<!--
-**LudivineKsp/Ludivineksp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JavaScript / React / PHP
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my portfolio website 👩🏼‍💻 
+- 📨 How to reach me: Follow my LinkedIn link ⬇️ 
+- 🤎 Loving mother for my Akita Inu puppy 🐕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ludivine-kasper-laas-87729b253/)  
+
