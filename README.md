@@ -3,7 +3,7 @@
 
 ### Hi there 👋🏻, this is Ludivine's GitHub !
 #### Currently in training to become a Web Developper 💻
-Looking for a remote internship of two months for summer 2023 to validate my degree.
+Looking for a remote internship of two months for summer 2023 to validate my degree. Checkout my CV ⬇️
 
 Skills: HTML / CSS / JavaScript / React / PHP
 
