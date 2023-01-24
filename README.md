@@ -7,10 +7,11 @@ Looking for a remote internship of two months for summer 2023 to validate my deg
 
 Skills: HTML / CSS / JavaScript / React / PHP
 
-<div align="center"> 🔭 I’m currently working on my portfolio website 👩🏼‍💻 </div>
-<div align="center"> 📨 How to reach me: Follow my LinkedIn link ⬇️ </div>
-<div align="center"> 🤎 Loving mother for my Akita Inu puppy 🐕</div>
+🔭 I’m currently working on my portfolio website 👩🏼‍💻
 
+📨 How to reach me: Add me on [Linkedin](https://www.linkedin.com/in/ludivine-kasper-laas-87729b253/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='right'>](https://www.linkedin.com/in/ludivine-kasper-laas-87729b253/)
+🤎 Loving mother for my Akita Inu puppy 🐕
+
+[<img src="logo_CV.svg" alt="logoCV" height="60" align="right">](https://github.com/LudivineKsp/Ludivineksp/blob/main/ludivine_kasperCV.pdf)
 
