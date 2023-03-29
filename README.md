@@ -13,5 +13,5 @@ Skills: HTML / CSS / JavaScript / React / PHP
 
 🤎 Loving mother for my Akita Inu puppy 🐕
 
-[<img src="logo_CV.svg" alt="logoCV" height="60" align="right">](https://github.com/LudivineKsp/Ludivineksp/blob/main/ludivine_kasperCV.pdf)
+[<img src="logo_CV.svg" alt="logoCV" height="60" align="right">](https://github.com/LudivineKsp/Ludivineksp/blob/main/CV_ludivine_kasper.pdf)
 
